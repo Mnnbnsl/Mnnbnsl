@@ -15,18 +15,9 @@ I'm an Information Technology undergraduate passionate about building intelligen
 
 ---
 
-## 📖 Currently Learning
-
-* Agentic AI Systems
-* Reinforcement Learning
-* AI Infrastructure & MLOps
-* Distributed Systems
-* Advanced React & Next.js
-
----
-
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/Mnnbnsl
 * LinkedIn: https://www.linkedin.com/in/manan-bansal-42977b324
 * Gmail : [manan.bansal0302@gmail.com](mailto:manan.bansal0302@gmail.com)
+* Website : https://mnnbnsl.vercel.app
